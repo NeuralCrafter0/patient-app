@@ -1,0 +1,38 @@
+# Build artifacts
+**/build/
+**/target/
+**/bin/
+**/out/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Mobile specific
+iosApp/DerivedData/
+iosApp/*.xcworkspace
+iosApp/Pods/
+androidApp/build/
+shared/build/
+
+# Local properties
+local.properties
+
+# Log files
+*.log
